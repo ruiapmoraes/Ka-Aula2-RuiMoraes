@@ -68,6 +68,9 @@
   <ItemGroup>
     <Content Include="javascript\01.02-ScriptExt.html" />
     <Content Include="javascript\02-Variaveis.html" />
+    <Content Include="javascript\03.01-Tipos.html" />
+    <Content Include="javascript\03.02-ObjetoDate.html" />
+    <Content Include="javascript\03.03-Arrays.html" />
     <Content Include="javascript\js\helloworld.js" />
     <Content Include="packages.config" />
     <Content Include="javascript\01.01-scripts.html" />
