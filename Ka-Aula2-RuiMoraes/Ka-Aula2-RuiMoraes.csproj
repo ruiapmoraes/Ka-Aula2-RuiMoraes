@@ -80,6 +80,7 @@
     <Content Include="javascript\07.03-Eventos-Atributos-Encapsulamento.html" />
     <Content Include="javascript\07.02-Eventos-Atributos-Propriedades.html" />
     <Content Include="javascript\07.01-Eventos-Atributos.html" />
+    <Content Include="javascript\08.01-ManipulandoElementos.html" />
     <Content Include="javascript\js\helloworld.js" />
     <Content Include="packages.config" />
     <Content Include="javascript\01.01-scripts.html" />
