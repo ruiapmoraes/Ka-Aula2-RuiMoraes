@@ -66,12 +66,14 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="03.04-Objetos.html" />
+    <Content Include="javascript\03.04-Objetos.html" />
     <Content Include="javascript\01.02-ScriptExt.html" />
     <Content Include="javascript\02-Variaveis.html" />
     <Content Include="javascript\03.01-Tipos.html" />
     <Content Include="javascript\03.02-ObjetoDate.html" />
     <Content Include="javascript\03.03-Arrays.html" />
+    <Content Include="javascript\04-Operadores.html" />
+    <Content Include="javascript\05.01-EstruturaCondicionalIF.html" />
     <Content Include="javascript\js\helloworld.js" />
     <Content Include="packages.config" />
     <Content Include="javascript\01.01-scripts.html" />
